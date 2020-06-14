@@ -1,0 +1,6 @@
+C:\Projetos\C#\First_RL\First_RL\bin\Release\First_RL.exe.config
+C:\Projetos\C#\First_RL\First_RL\bin\Release\First_RL.exe
+C:\Projetos\C#\First_RL\First_RL\bin\Release\First_RL.pdb
+C:\Projetos\C#\First_RL\First_RL\obj\Release\First_RL.csproj.CoreCompileInputs.cache
+C:\Projetos\C#\First_RL\First_RL\obj\Release\First_RL.exe
+C:\Projetos\C#\First_RL\First_RL\obj\Release\First_RL.pdb
